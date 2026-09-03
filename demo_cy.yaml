@@ -7,7 +7,6 @@ on:
 
 jobs:
 
-
   # שלב 1: בנייה (Build)
   build_stage:
     runs-on: ubuntu-latest
